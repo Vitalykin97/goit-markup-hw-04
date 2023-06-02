@@ -1,0 +1,61 @@
+.icon {
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-image: url(sprite.svg);
+}
+.icon-Ellipse_3 {
+  width: 32px;
+  height: 32px;
+  background-position: 0 0;
+}
+.icon-twitter {
+  width: 32px;
+  height: 32px;
+  background-position: -48px 0;
+}
+.icon-Section {
+  width: 180px;
+  height: 32px;
+  background-position: -96px 0;
+}
+.icon-instagram {
+  width: 32px;
+  height: 32px;
+  background-position: -288px 0;
+}
+.icon-Vector_1 {
+  width: 41px;
+  height: 32px;
+  background-position: -336px 0;
+}
+.icon-Vector_2 {
+  width: 29px;
+  height: 32px;
+  background-position: -432px 0;
+}
+.icon-Vector_3 {
+  width: 28px;
+  height: 32px;
+  background-position: -480px 0;
+}
+.icon-people-office-1 {
+  width: 77px;
+  height: 32px;
+  background-position: -528px 0;
+}
+.icon-antenna_1 {
+  width: 32px;
+  height: 32px;
+  background-position: -624px 0;
+}
+.icon-Vector {
+  width: 31px;
+  height: 32px;
+  background-position: -672px 0;
+}
+.icon-facebook {
+  width: 32px;
+  height: 32px;
+  background-position: -720px 0;
+}
+
