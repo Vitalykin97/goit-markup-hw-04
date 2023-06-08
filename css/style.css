@@ -472,6 +472,7 @@ display: block;
     align-items: center;
 }
 
+
 .icon-list{
     display: flex; 
     align-items: center;
@@ -482,4 +483,10 @@ display: block;
     margin-bottom: 8px;
     align-items: center;
     justify-content: center;
+}
+
+.icon-item{
+    display: flex; 
+    justify-content: center; 
+    gap: 24px;
 }
