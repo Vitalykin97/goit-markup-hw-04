@@ -536,3 +536,8 @@ img {
 .icon-listen:focus {
     background-color: #404bbf;
 }
+
+.icons-list {
+    width: 40px;
+    height: 40px;
+}
