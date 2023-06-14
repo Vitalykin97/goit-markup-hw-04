@@ -523,6 +523,7 @@ img {
 .icon-listen {
     display: flex;
     gap: 24px;
+    justify-content: center;
 }
 
 
