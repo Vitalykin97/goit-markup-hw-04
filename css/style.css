@@ -525,10 +525,6 @@ img {
     gap: 24px;
 }
 
-.icon-listen:hover,
-.icon-listen:focus {
-    background-color: #404bbf;
-}
 
 .icons-list {
     width: 40px;
