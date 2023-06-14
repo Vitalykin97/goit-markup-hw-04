@@ -506,7 +506,7 @@ img {
 .icon-list {
     display: flex;
     align-items: center;
-    justify-content: center;
+ 
     height: 112px;
     background-color: #f4f4fd;
     border-radius: 4px;
@@ -518,7 +518,6 @@ img {
 .icon-item {
     display: flex;
     justify-content: center;
-    gap: 24px;
 }
 
 .icon-listen {
