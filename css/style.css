@@ -644,3 +644,7 @@ img {
 .social-items:focus{
     background-color: #31d0aa;
 }
+
+.media-logo{
+    fill: #f4f4fd; 
+}
