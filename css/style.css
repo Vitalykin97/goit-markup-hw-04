@@ -573,3 +573,24 @@ img {
     width: calc((100% - 120px) / 6);
     height: 88px;
 }
+
+.client-item{
+    width: 100%;
+    height: 100%;
+    border: 1px solid #8e8f99;
+    border-radius: 4px;
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+    color: #8e8f99;
+}
+
+.client-item:hover{
+    border-color: #404bbf;
+    color: #404bbf; 
+}
+
+.client-item:focus{
+    color: #404bbf;
+    border-color: #404bbf;
+}
