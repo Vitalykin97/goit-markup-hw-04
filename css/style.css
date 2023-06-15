@@ -563,3 +563,8 @@ img {
     color: #2e2f42 ;
     margin-bottom: 72px;
 }
+
+.futer-client{
+    display: flex; 
+    gap: 24px;
+}
