@@ -495,7 +495,6 @@ img {
     width: 1158px;
     padding: 0 15px;
     margin: 0 auto;
-    display: flex;
 }
 
 .list {
@@ -599,4 +598,8 @@ img {
 
 .client-logo{
     fill: currentColor; 
+}
+
+.footer-container{
+    
 }
