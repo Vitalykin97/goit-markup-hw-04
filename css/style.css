@@ -551,3 +551,8 @@ img {
 .icon-items{
     fill: #f4f4fd;
 }
+
+.footer-logotype{
+    padding-top: 120px;
+    padding-bottom: 120px;
+}
