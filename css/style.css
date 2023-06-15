@@ -568,3 +568,7 @@ img {
     display: flex; 
     gap: 24px;
 }
+
+.list-client{
+    width: calc((100% - 120px) / 6)
+}
